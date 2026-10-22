@@ -1,0 +1,11 @@
+{
+  "name": "Signal [Bad]",
+  "description": "Real-time native Android voice call client for Google Gemini Multimodal Live API (WebSocket BidiGenerateContent) with OLED visualizer, Live Captions, and HUD overlay.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
